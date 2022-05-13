@@ -12,8 +12,8 @@
     </parent>
 
     <groupId>org.exist-db</groupId>
-    <artifactId>exist-mysql-jdbc-driver</artifactId>
-    <version>8.0.29</version>
+    <artifactId>exist-ojdbc8-jdbc-driver</artifactId>
+    <version>21.5.0.0</version>
 
     <name>MySQL JDBC Driver</name>
     <description>MySQL JDBC Driver for eXist-db</description>
@@ -62,8 +62,8 @@
         </dependency>
         <!-- https://mvnrepository.com/artifact/mysql/mysql-connector-java -->
         <dependency>
-            <groupId>mysql</groupId>
-            <artifactId>mysql-connector-java</artifactId>
+            <groupId>com.oracle.database.jdbc</groupId>
+            <artifactId>ojdbc8</artifactId>
             <version>${project.version}</version>
         </dependency>
 
