@@ -18,10 +18,10 @@
     <name>Oracle JDBC 8 Driver</name>
     <description>Oracle JDBC 8 Driver for eXist-db</description>
     <url>https://exist-db.org/exist-db/jdbc/ojdbc8</url>
-
+    
     <organization>
         <name>eXist-db</name>
-        <url>http://exist-db.org</url>
+        <url>https://www.github.com/eXist-db/exist-ojdbc8-jdbc-driver</url>
     </organization>
 
     <licenses>
