@@ -15,9 +15,9 @@
     <artifactId>exist-ojdbc8-jdbc-driver</artifactId>
     <version>21.5.0.0</version>
 
-    <name>MySQL JDBC Driver</name>
-    <description>MySQL JDBC Driver for eXist-db</description>
-    <url>https://exist-db.org/exist-db/jdbc/mysql</url>
+    <name>Oracle JDBC 8 Driver</name>
+    <description>Oracle JDBC 8 Driver for eXist-db</description>
+    <url>https://exist-db.org/exist-db/jdbc/ojdbc8</url>
 
     <organization>
         <name>eXist-db</name>
