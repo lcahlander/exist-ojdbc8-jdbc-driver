@@ -18,7 +18,7 @@
     <name>Oracle JDBC 8 Driver</name>
     <description>Oracle JDBC 8 Driver for eXist-db</description>
     <url>https://exist-db.org/exist-db/jdbc/ojdbc8</url>
-    
+
     <organization>
         <name>eXist-db</name>
         <url>https://www.github.com/eXist-db/exist-ojdbc8-jdbc-driver</url>
@@ -156,7 +156,7 @@
                         </goals>
                         <configuration>
                             <descriptor>xar-assembly.xml</descriptor>
-                            <finalName>${package-final-name}</finalName>
+                            <finalName>${package-final-name}-${build-commit-abbrev}</finalName>
                         </configuration>
                     </execution>
                 </executions>
