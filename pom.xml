@@ -13,7 +13,7 @@
 
     <groupId>org.exist-db</groupId>
     <artifactId>exist-ojdbc8-jdbc-driver</artifactId>
-    <version>21.8.0.0</version>
+    <version>21.9.0.0</version>
 
     <name>Oracle JDBC 8 Driver</name>
     <description>Oracle JDBC 8 Driver for eXist-db</description>
